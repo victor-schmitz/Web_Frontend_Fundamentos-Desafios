@@ -1,0 +1,52 @@
+.nome{
+    text-align: center;
+    background-color: #ACAFD4;
+    color: #061761;
+}
+
+.descricao{
+    text-align: center;
+}
+
+h1{
+    color: #061761;
+    background-color: #B6B6B6;    
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.titulo{
+    border-bottom: 2px solid #061761;
+    padding: 5px;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: #CCCCCC;
+}
+
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 14px;
+    color: #444444;
+}
+
+ul{
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 14px;
+    color: #444444;
+}
+
+a{
+    text-decoration: none;
+}
+
+.ano, .formacao, .tec{
+    font-size: 16px;
+}
+
+.tec{
+    margin-bottom: 5px;
+}
