@@ -1,2 +1,2 @@
-# Web Frontend Fundamentos - Desafios
-Desafios propostos pelo professor, no curso Web Frontend Fundamentos
+# Desafios 2
+Replicar a imagem Desafio 2 Modelo usando HTML e CSS
