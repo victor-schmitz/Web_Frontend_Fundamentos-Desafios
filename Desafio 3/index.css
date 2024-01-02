@@ -1,0 +1,95 @@
+.div_header{
+    background-image: url(imagens/bg-3.jpg);
+    height: 500px;
+    background-size:cover;
+    background-position: right center;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0; 
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #ccc;
+    font-family: sans-serif;
+}
+
+.botoes_header{
+    list-style: none;
+    margin-top: 0;
+    padding-top: 0;
+    margin-right: 25px;
+    text-align: right;
+}
+
+.botoes_header a:hover{
+    background-color: #74726f;
+}
+
+.botoes_header li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 4px;
+}
+
+.a_botoes_header{
+    text-decoration: none;
+    border: solid 1px white;
+    padding: 6px;
+    background-color: #82807C;
+    color: white;
+    font-size: 12px;
+}
+
+header h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 150px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.descricao_header{
+    text-align: center;  
+    margin-top: 90px;  
+}
+
+.desc_header_visivel{
+    background-color: rgba(13, 12, 17, 0.7);
+    color: white;
+    font-size: 20px;
+    padding: 6px;
+    border-bottom: solid white 3px;
+    display: inline;
+}
+
+.div_assunto{
+    background-color: white;
+    margin: 20px 80px 30px;
+    padding: 1px 10px 20px;
+}
+
+.h_assunto{
+    background-color: #EDEDED;
+    padding: 6px;
+    border-bottom: solid 2px #ccc;
+
+}
+
+.botao_assunto{
+    background-color: #CEC7C4;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.h4_footer{
+    text-align: center;
+    color: white;
+    background-color: rgba(63, 65, 65, 0.5);
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding: 20px;    
+}
